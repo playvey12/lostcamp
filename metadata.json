@@ -1,0 +1,6 @@
+{
+  "name": "LOST CAMP Tactical Gear",
+  "description": "Тактическое снаряжение, экипировка, плитники, подсумки и аксессуары",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

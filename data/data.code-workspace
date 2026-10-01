@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lostcamp"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../server"
+		},
+		{
+			"path": "../uploads"
+		}
+	]
+}
